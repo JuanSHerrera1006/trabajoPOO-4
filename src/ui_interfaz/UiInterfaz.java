@@ -1,4 +1,4 @@
-package UiInterfaz;
+package ui_interfaz;
 
 import gestor_cedula.FileManager;
 import java.io.IOException;

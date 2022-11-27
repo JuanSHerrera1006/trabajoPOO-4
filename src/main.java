@@ -1,6 +1,6 @@
 
 
-import static UiInterfaz.UiInterfaz.mainMenu;
+import static ui_interfaz.UiInterfaz.mainMenu;
 import gestor_cedula.FileManager;
 import java.io.IOException;
 import java.util.Scanner;
